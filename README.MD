@@ -14,5 +14,6 @@ Test Vagrant Assignment Repository
     2. test_utils directory holds utility operations like file parsing,formatting, etc
     3. tests directory holds the test cases created for verification.
     4. Pytest testing framework needs tests/conftest.py file and it is driver file for test execution. Here we will define our custom fixtures, test report modification hooks, etc.
+    5. Once the execution is completed, html reports are generated under reports directory.
 
     
